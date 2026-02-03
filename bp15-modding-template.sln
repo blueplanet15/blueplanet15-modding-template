@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bp15-modding-template", "bp15-modding-template\bp15-modding-template.csproj", "{51AC6B2E-57A3-491F-8416-5B50D7D2D9D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bp15-modding-template", "bp15-modding-template.csproj", "{C6AC8901-DF96-414E-CC57-B106B8CB739D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{51AC6B2E-57A3-491F-8416-5B50D7D2D9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51AC6B2E-57A3-491F-8416-5B50D7D2D9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51AC6B2E-57A3-491F-8416-5B50D7D2D9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51AC6B2E-57A3-491F-8416-5B50D7D2D9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AC8901-DF96-414E-CC57-B106B8CB739D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AC8901-DF96-414E-CC57-B106B8CB739D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AC8901-DF96-414E-CC57-B106B8CB739D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AC8901-DF96-414E-CC57-B106B8CB739D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9C75EF22-5D6D-4F13-BFBA-2C55734984CE}
+		SolutionGuid = {671EC8DD-B0CC-4DCE-AC74-BA46E577FD80}
 	EndGlobalSection
 EndGlobal
