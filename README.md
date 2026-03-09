@@ -7,5 +7,5 @@ Download the source code, Extract the Zip, Delete the .sln file and rename (opti
 Lots of times I download source code and the sln doesnt work, so if it doesn't try this.
 
 <h1>Example Mod</h1>
-[Recording 2026-03-09 064942](https://github.com/user-attachments/assets/265b91eb-858a-4cd7-a98a-17acf5af0dfa)
+![Recording 2026-03-09 064942](https://github.com/user-attachments/assets/62f17bda-48bd-45fb-af4e-d9390a1fb708)
 Draw: RG, Delete: RT
