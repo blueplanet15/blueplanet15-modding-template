@@ -6,6 +6,6 @@ lowkey i know probably nobody's gonna read this, but if u use this id appreciate
 Download the source code, Extract the Zip, Delete the .sln file and rename (optional) then open the csproj, upon exiting the csproj a new sln will be made, USE THAT ONE
 Lots of times I download source code and the sln doesnt work, so if it doesn't try this.
 
-<h1>Example Mod</h1>
-![Recording 2026-03-09 064942](https://github.com/user-attachments/assets/62f17bda-48bd-45fb-af4e-d9390a1fb708)
+<h1>Example Mod</h1
 Draw: RG, Delete: RT
+![Recording 2026-03-09 064942](https://github.com/user-attachments/assets/48bf31c3-608d-4d44-b3a2-cb4927c141b1)
