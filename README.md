@@ -1,3 +1,6 @@
 # blueplanet15-modding-template
 im making this so that i dont forget stupid shit when i make new mods
 lowkey i know probably nobody's gonna read this, but if u use this id appreciate if u gave credit cuz i feel like its pretty decent
+
+<h1>Usage</h1>
+Download the source code, Extract the Zip, Delete the .sln file and open the csproj, upon exiting the csproj a new sln will be made, USE THAT ONE
