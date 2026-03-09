@@ -4,3 +4,4 @@ lowkey i know probably nobody's gonna read this, but if u use this id appreciate
 
 <h1>Usage</h1>
 Download the source code, Extract the Zip, Delete the .sln file and open the csproj, upon exiting the csproj a new sln will be made, USE THAT ONE
+Lots of times I download source code and the sln doesnt work, so if it doesn't try this.
