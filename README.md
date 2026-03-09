@@ -5,3 +5,7 @@ lowkey i know probably nobody's gonna read this, but if u use this id appreciate
 <h1>Usage</h1>
 Download the source code, Extract the Zip, Delete the .sln file and rename (optional) then open the csproj, upon exiting the csproj a new sln will be made, USE THAT ONE
 Lots of times I download source code and the sln doesnt work, so if it doesn't try this.
+
+<h1>Example Mod</h1>
+[Recording 2026-03-09 064942](https://github.com/user-attachments/assets/265b91eb-858a-4cd7-a98a-17acf5af0dfa)
+Draw: RG, Delete: RT
