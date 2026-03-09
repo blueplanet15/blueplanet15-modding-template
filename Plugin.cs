@@ -1,6 +1,8 @@
 ﻿using BepInEx;
 using UnityEngine;
 using Utilla.Attributes;
+using System.Collections.Generic;
+using GorillaLocomotion;
 
 namespace bp15_modding_template
 {
@@ -85,4 +87,5 @@ namespace bp15_modding_template
         }
     }
 }
+
 
