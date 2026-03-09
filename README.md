@@ -8,4 +8,3 @@ Lots of times I download source code and the sln doesnt work, so if it doesn't t
 
 <h1>Example Mod</h1>
 Draw: RG, Delete: RT
-![Recording 2026-03-09 064942](https://github.com/user-attachments/assets/e32d4934-3b0a-4ce1-913e-182fde4023f3)
